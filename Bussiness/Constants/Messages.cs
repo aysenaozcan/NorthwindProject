@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Business.Constants
 { 
-    //Sürekli newlwmwyi önleyebilmek için sabit bir yapı olusturulmalıdır. O yüzden static yazdık.
+    //Sürekli newlemeyi önleyebilmek için sabit bir yapı olusturulmalıdır. O yüzden static yazdık.
     public static class Messages
     {   //public fieldler büyük harfle yazılır, private olsaydı başharfi küçük olurdu.
         public static string ProductAdded = "Ürün eklendi";
